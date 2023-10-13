@@ -1,2 +1,2 @@
-# Lip-Reading-
+# Lip-Reading
 Lip reading model by using LipNet
